@@ -1,0 +1,1 @@
+﻿WAF.define('kendoHelpers', [], function() {	'use strict';		return {		toDate: function(str) {			if (str instanceof Date) {				return str;			}    		if (typeof str == 'string') {    			return new Date(str);    		}    		return null;		}	};});
