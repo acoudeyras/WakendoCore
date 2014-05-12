@@ -1,9 +1,9 @@
 {
     "name": "WakendoCore",
     "studioName": "WakendoCore",
-    "category": "Custom Widgets",
+    "category": "Kendo Widgets",
     "iconPath": "/icons/widget.png",
-    "author": "Widget Developer",
+    "author": "Alexis Coudeyras",
     "contributors": [
         "Alexis Coudeyras"
     ],
